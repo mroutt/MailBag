@@ -1,0 +1,22 @@
+{
+  "name": "mailbag-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mroutt/MailBag.git"
+  },
+  "author": "Mitch Routt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mroutt/MailBag/issues"
+  },
+  "homepage": "https://github.com/mroutt/MailBag#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
